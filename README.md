@@ -1,5 +1,5 @@
 # CapstoneProject
-<h4><strong>Team Members<strong></h4>
+<h4><strong>Team Members:<strong></h4>
 <ul>
   <li>Derrik Hall</li>
   <li>Anthony Henry</li>
