@@ -1,5 +1,5 @@
 # CapstoneProject
-<h4 style="display: inline;">Purpose:</h4>
+<span><strong>Purpose:</strong></span>
 <span> Running python scripts on a Raspberry Pi using an Amazon Alexa Echo device.</span>
 <h4><strong>Team Members:<strong></h4>
 <ul>
