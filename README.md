@@ -1,6 +1,6 @@
 # CapstoneProject
-<span><h4>Purpose:</h4></span>
-<span>Running python scripts on a Raspberry Pi using an Amazon Alexa Echo device.</span>
+<h4 style="display: inline;">Purpose:</h4>
+<span> Running python scripts on a Raspberry Pi using an Amazon Alexa Echo device.</span>
 <h4><strong>Team Members:<strong></h4>
 <ul>
   <li>Derrik Hall</li>
