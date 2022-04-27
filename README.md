@@ -10,4 +10,5 @@
   <li>Andrea Paniagua</li>
 </ul>
 
-# anthonysjhenry.github.io/capstoneproject
+  <a href="https://anthonysjhenry.github.io/CapstoneProject/">Capstone Website</a>
+
